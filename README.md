@@ -1,5 +1,5 @@
 ## 小鹿包V1.2
-Github仓库：[editor on GitHub](https://github.com/Ken-Kano/)
+Github仓库：[editor on GitHub](www.github.com)
 
 
 ### 版本更新
