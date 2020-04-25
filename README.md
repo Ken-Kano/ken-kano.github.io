@@ -5,7 +5,7 @@ Github仓库：[editor on GitHub](https://github.com/Ken-Kano/)
 ### 版本更新
 
 
-点击我下载音源[点击我下载音源](www.xiaolvbao.club/stopupdate).
+点击我下载音源[点击我下载音源](/stopupdate/).
 
 
 开发者的B站主页[开发者的B站主页](https://space.bilibili.com/248959210).
