@@ -1,4 +1,4 @@
-## 小鹿包V1.2
+## 小鹿包V1.3
 Github仓库：[editor on GitHub](www.github.com)
 
 
