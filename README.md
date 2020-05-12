@@ -1,11 +1,11 @@
-## V1.4
+## V1.5
 Github仓库：[editor on GitHub](www.github.com)
 
 
 ### 版本更新
 
 
-点击我下载音源[点击我下载音源](/stopupdate/).
+
 
 
 开发者的B站主页[开发者的B站主页](https://space.bilibili.com/248959210).
@@ -15,4 +15,4 @@ Github仓库：[editor on GitHub](www.github.com)
 
 所以糊先生以及团队组和粉丝，停止你们的举报，你们待在自己的圈子不行，偏要来毁别人的圈子，来恶心别人的圈子，不愧是肖偷家族，接下来欢迎各位用户来反馈（除肖偷家族的脑残粉，一旦是肖偷家族的脑残粉就会立即公布），还给各位一个安宁的圈子
 
-YouTube镜像回归计划会在V1.5版本开启
+[YouTube回归计划](https://www.xiaolvbao.club/youtube/)
