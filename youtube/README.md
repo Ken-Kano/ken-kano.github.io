@@ -7,4 +7,4 @@
 
 Tips:开发者是鹿友.....,后边会还原YouTube直播功能
 
-[同意该条款](http://www.ytbcnimg.xyz/you2php-1.2/search.php)
+[同意该条款](http://www.ytbcnimg.xyz/youtube/)
