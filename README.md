@@ -17,3 +17,8 @@ Github仓库：[editor on GitHub](www.github.com)
 
 [YouTube回归计划](https://www.xiaolvbao.club/youtube/)
 [Stop hanser的一些事]还有不知道是不是官网先放(https://www.xiaolvbao.club/abouthanser/stophanser.html)[未知](https://www.hanserxiaotianshi.club)
+
+### Eanagry Notice
+FUCK CHENGQINGLING FUCK XIAOZHAN FUCK XIAOFEIXIA
+XIAOZHANBIHU
+1.博君一肖cpf已经扯到鹿乃了并用鹿乃的B站账号提《陈情令》(是鹿乃的经济人),所以最近服务器会进行冷处理一段时间,之后可能会在接下来的服务以及网站更新都会进行DTMK reCAPTCHA来验证。难度会有所增加。
