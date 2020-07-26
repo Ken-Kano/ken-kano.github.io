@@ -16,4 +16,4 @@ www.xiaolvbao.club/voice/voiceuser/README.md(本网站)
 目前只支持Android9.0-10.0(小米10，小米10 Pro,Redmi K30系列，Redmi 10X系列出厂为Android10),(小米10，小米10 Pro,Redmi K30 Pro)Android 11 Beta 1&2请等待MIUI优化吧(MIUI开发版)或降级。
 
 
-[我已同意阅读,并遵守以下规则](/PCM PACK FOR KANO Beta1.zip)
+[我已同意阅读,并遵守以下规则](https://www.xiaolvbao.club/PCM PACK FOR KANO Beta1.zip)
